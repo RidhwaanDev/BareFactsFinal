@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bare</string>
+    <string name="action_settings">Settings</string>
+    <string name="one">Bears Are Cute</string>
+    <string name="two">Bears like to eat meat</string>
+    <string name="three">Some bears attack humans</string>
+    <string name="four">Bears are also friendly</string>
+    <string name="five">I barely researched these facts</string>
+    <string name="six">I did the bare minimum effort</string>
+    <string name="seven">Feaz is hot</string>
+    <string name="eight">Bears are the best</string>
+    <string name="title_activity_fact_creator">FactCreator</string>
+</resources>
